@@ -1,9 +1,8 @@
-
 # Java Programming 🚀
 
 Welcome to my Java Programming repository!
 
-I'm Tarandeep Singh, a B.Tech student specializing in Artificial Intelligence and Machine Learning. This repository documents my journey of learning Java programming and Object-Oriented Programming (OOP).
+I'm a B.Tech student specializing in Artificial Intelligence and Machine Learning. This repository documents my journey of learning Java, Object-Oriented Programming (OOP), and problem-solving.
 
 ## 📚 Topics Covered
 
@@ -12,7 +11,8 @@ I'm Tarandeep Singh, a B.Tech student specializing in Artificial Intelligence an
 - Constructors
 - Encapsulation
 - Inheritance
-- Object-Oriented Programming
+- Abstraction
+- Interfaces
 - Recursion
 - Fibonacci Series
 - Banking Programs
@@ -26,23 +26,38 @@ I'm Tarandeep Singh, a B.Tech student specializing in Artificial Intelligence an
 
 ## 📂 Repository Structure
 
-- `Atmm.java` – ATM-related programming practice
-- `Fib.java` – Fibonacci series using Java
-- `bankacc.java` – Bank account and encapsulation practice
-- `encapsulation.java` – Encapsulation concepts
-- `inheritance/` – Java inheritance practice programs
-- `main.java` – Java programming practice
+```text
+Java-Programming/
+│
+├── encapsulation/
+│   ├── Atmm.java
+│   ├── bankacc.java
+│   ├── encapage.java
+│   └── ...
+│
+├── inheritance/
+│   ├── animalcode2.java
+│   ├── employemanagementsystem.java
+│   ├── firstcode.java
+│   └── shapes.java
+│
+├── abstraction/
+│   ├── Payment_System.java
+│   └── InnerNotification_System.java
+│
+└── README.md
+```
 
-## 🎯 My Learning Goals
+## 🎯 Learning Goals
 
 - Strengthen Java programming fundamentals.
 - Understand all four pillars of OOP.
 - Improve problem-solving skills.
-- Learn Data Structures and Algorithms.
+- Practice Data Structures and Algorithms.
 - Explore Artificial Intelligence and Machine Learning.
 
 ## 🌱 About This Repository
 
-This repository is a collection of my learning exercises and programming practice. I will continue updating it as I learn new concepts and build more projects.
+This repository contains my Java learning exercises and practical projects. I will continue updating it as I explore advanced Java concepts and build more projects.
 
 **Learning, Practising, and Growing Every Day!**
