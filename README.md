@@ -24,22 +24,54 @@ My goal is to build a strong foundation in Java and gradually progress towards D
 | Object Class | toString(), equals(), and object comparison |
 | Java I/O | Scanner, BufferedReader, and input handling |
 
-## Repository Structure
-
-```text
 Java-Programming/
-|
-|-- abstraction/
-|-- encapsulation/
-|-- inheritance/
-|-- polymorphism/
-|-- objectclass/
-|-- enums/
-|-- interfaces/
-|-- java.io/
-|
-|-- README.md
-```
+│
+├── abstraction/
+│   ├── InnerNotification_System.java
+│   └── Payment_System.java
+│
+├── encapsulation/
+│   ├── Atmm.java
+│   ├── bankacc.java
+│   ├── encapage.java
+│   ├── encapsulation.java
+│   ├── Fib.java
+│   ├── main.java
+│   └── tanimal.java
+│
+├── inheritance/
+│   ├── animalcode2.java
+│   ├── employemanagementsystem.java
+│   ├── firstcode.java
+│   ├── shapes.java
+│   └── inheritance.java       (if confirmed appropriate)
+│
+├── polymorphism/
+│   └── Employee_Payroll_Management_System.java
+│
+├── objectclass/
+│   ├── Book_Comparison.java
+│   ├── equals.java
+│   └── objectmethodtostring.java
+│
+├── enums/
+│   ├── Days.java
+│   ├── studentmanagement.java
+│   └── Trafficlightsystem.java
+│
+├── interfaces/
+│   ├── EmployeeManagementSystem.java
+│   ├── NotificationSystem.java
+│   ├── PaymentStatus.java
+│   ├── ShapeCalculator.java
+│   └── SmartHomeSystem.java
+│
+├── java.io/
+│   ├── BufferedReaderExample.java
+│   └── ScannerExample.java
+│
+├── README.md
+└── .gitignore
 
 Each folder contains Java programs related to its respective concept.
 
