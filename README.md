@@ -1,63 +1,71 @@
-# Java Programming 🚀
+# Java Programming | OOP Concepts
 
 Welcome to my Java Programming repository!
 
-I'm a B.Tech student specializing in Artificial Intelligence and Machine Learning. This repository documents my journey of learning Java, Object-Oriented Programming (OOP), and problem-solving.
+I'm a B.Tech student specializing in Artificial Intelligence and Machine Learning. This repository documents my journey of learning Java, understanding Object-Oriented Programming (OOP), and developing problem-solving skills through practical coding.
 
-## 📚 Topics Covered
+## About This Repository
 
-- Java Fundamentals
-- Classes and Objects
-- Constructors
-- Encapsulation
-- Inheritance
-- Abstraction
-- Interfaces
-- Recursion
-- Fibonacci Series
-- Banking Programs
+This repository contains my Java programs, coding exercises, and practical implementations of important programming concepts.
 
-## 💻 Technologies Used
+My goal is to build a strong foundation in Java and gradually progress towards Data Structures and Algorithms.
 
-- Java
-- Git
-- GitHub
-- VS Code
+## Topics Covered
 
-## 📂 Repository Structure
+| Topic | Description |
+|---|---|
+| Classes and Objects | Classes, objects, constructors, and object methods |
+| Encapsulation | Data hiding, private fields, getters, setters, and validation |
+| Inheritance | Code reusability, parent-child relationships, and method overriding |
+| Polymorphism | Method overloading and method overriding |
+| Abstraction | Abstract classes and abstract methods |
+| Interfaces | Interface implementation, multiple interfaces, and default/static methods |
+| Enums | Enum constants, constructors, methods, and practical applications |
+| Object Class | toString(), equals(), and object comparison |
+| Java I/O | Scanner, BufferedReader, and input handling |
+
+## Repository Structure
 
 ```text
 Java-Programming/
-│
-├── encapsulation/
-│   ├── Atmm.java
-│   ├── bankacc.java
-│   ├── encapage.java
-│   └── ...
-│
-├── inheritance/
-│   ├── animalcode2.java
-│   ├── employemanagementsystem.java
-│   ├── firstcode.java
-│   └── shapes.java
-│
-├── abstraction/
-│   ├── Payment_System.java
-│   └── InnerNotification_System.java
-│
-└── README.md
+|
+|-- abstraction/
+|-- encapsulation/
+|-- inheritance/
+|-- polymorphism/
+|-- objectclass/
+|-- enums/
+|-- interfaces/
+|-- java.io/
+|
+|-- README.md
 ```
 
-## 🎯 Learning Goals
+Each folder contains Java programs related to its respective concept.
+
+## Technologies Used
+
+- Java
+- JDK
+- Visual Studio Code
+- Git
+- GitHub
+
+## Learning Goals
 
 - Strengthen Java programming fundamentals.
-- Understand all four pillars of OOP.
-- Improve problem-solving skills.
-- Practice Data Structures and Algorithms.
-- Explore Artificial Intelligence and Machine Learning.
+- Understand the four pillars of Object-Oriented Programming.
+- Practice Java through real-world programming examples.
+- Improve logical thinking and problem-solving.
+- Progress towards Data Structures and Algorithms.
+- Build practical programming projects.
 
-## 🌱 About This Repository
+## Progress
 
-This repository contains my Java learning exercises and practical projects. I will continue updating it as I explore advanced Java concepts and build more projects.
+This repository is continuously updated as I learn new Java concepts and complete practical exercises.
 
-**Learning, Practising, and Growing Every Day!**
+More programs and implementations will be added as I progress.
+
+---
+
+**Learning | Practising | Building | Improving**
